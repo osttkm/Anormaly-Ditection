@@ -1,2 +1,3 @@
 # Anormaly-Ditection
-学部三年時に行ったPaDiMの実験に用いたコードです
+学部三年時に行ったPaDiMの実験に用いたコード.
+より詳細な実験はリポジトリswin_padimを参照
